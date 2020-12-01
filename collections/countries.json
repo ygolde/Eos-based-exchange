@@ -1,0 +1,246 @@
+{"_id":{"$oid":"5ee23678b7399511b9ce0254"},"id":"1","sortname":"AF","name":"Afghanistan","phonecode":"93","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0255"},"id":"2","sortname":"AL","name":"Albania","phonecode":"355","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0256"},"id":"3","sortname":"DZ","name":"Algeria","phonecode":"213","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0257"},"id":"4","sortname":"AS","name":"American Samoa","phonecode":"1684","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0258"},"id":"5","sortname":"AD","name":"Andorra","phonecode":"376","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0259"},"id":"6","sortname":"AO","name":"Angola","phonecode":"244","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce025a"},"id":"7","sortname":"AI","name":"Anguilla","phonecode":"1264","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce025b"},"id":"8","sortname":"AQ","name":"Antarctica","phonecode":"0","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce025c"},"id":"9","sortname":"AG","name":"Antigua And Barbuda","phonecode":"1268","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce025d"},"id":"10","sortname":"AR","name":"Argentina","phonecode":"54","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce025e"},"id":"11","sortname":"AM","name":"Armenia","phonecode":"374","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce025f"},"id":"12","sortname":"AW","name":"Aruba","phonecode":"297","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0260"},"id":"13","sortname":"AU","name":"Australia","phonecode":"61","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0261"},"id":"14","sortname":"AT","name":"Austria","phonecode":"43","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0262"},"id":"15","sortname":"AZ","name":"Azerbaijan","phonecode":"994","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0263"},"id":"16","sortname":"BS","name":"Bahamas The","phonecode":"1242","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0264"},"id":"17","sortname":"BH","name":"Bahrain","phonecode":"973","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0265"},"id":"18","sortname":"BD","name":"Bangladesh","phonecode":"880","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0266"},"id":"19","sortname":"BB","name":"Barbados","phonecode":"1246","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0267"},"id":"20","sortname":"BY","name":"Belarus","phonecode":"375","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0268"},"id":"21","sortname":"BE","name":"Belgium","phonecode":"32","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0269"},"id":"22","sortname":"BZ","name":"Belize","phonecode":"501","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce026a"},"id":"23","sortname":"BJ","name":"Benin","phonecode":"229","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce026b"},"id":"24","sortname":"BM","name":"Bermuda","phonecode":"1441","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce026c"},"id":"25","sortname":"BT","name":"Bhutan","phonecode":"975","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce026d"},"id":"26","sortname":"BO","name":"Bolivia","phonecode":"591","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce026e"},"id":"27","sortname":"BA","name":"Bosnia and Herzegovina","phonecode":"387","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce026f"},"id":"28","sortname":"BW","name":"Botswana","phonecode":"267","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0270"},"id":"29","sortname":"BV","name":"Bouvet Island","phonecode":"0","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0271"},"id":"30","sortname":"BR","name":"Brazil","phonecode":"55","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0272"},"id":"31","sortname":"IO","name":"British Indian Ocean Territory","phonecode":"246","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0273"},"id":"32","sortname":"BN","name":"Brunei","phonecode":"673","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0274"},"id":"33","sortname":"BG","name":"Bulgaria","phonecode":"359","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0275"},"id":"34","sortname":"BF","name":"Burkina Faso","phonecode":"226","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0276"},"id":"35","sortname":"BI","name":"Burundi","phonecode":"257","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0277"},"id":"36","sortname":"KH","name":"Cambodia","phonecode":"855","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0278"},"id":"37","sortname":"CM","name":"Cameroon","phonecode":"237","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0279"},"id":"38","sortname":"CA","name":"Canada","phonecode":"1","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce027a"},"id":"39","sortname":"CV","name":"Cape Verde","phonecode":"238","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce027b"},"id":"40","sortname":"KY","name":"Cayman Islands","phonecode":"1345","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce027c"},"id":"41","sortname":"CF","name":"Central African Republic","phonecode":"236","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce027d"},"id":"42","sortname":"TD","name":"Chad","phonecode":"235","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce027e"},"id":"43","sortname":"CL","name":"Chile","phonecode":"56","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce027f"},"id":"44","sortname":"CN","name":"China","phonecode":"86","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0280"},"id":"45","sortname":"CX","name":"Christmas Island","phonecode":"61","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0281"},"id":"46","sortname":"CC","name":"Cocos (Keeling) Islands","phonecode":"672","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0282"},"id":"47","sortname":"CO","name":"Colombia","phonecode":"57","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0283"},"id":"48","sortname":"KM","name":"Comoros","phonecode":"269","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0284"},"id":"49","sortname":"CG","name":"Congo","phonecode":"242","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0285"},"id":"50","sortname":"CD","name":"Congo The Democratic Republic Of The","phonecode":"242","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0286"},"id":"51","sortname":"CK","name":"Cook Islands","phonecode":"682","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0287"},"id":"52","sortname":"CR","name":"Costa Rica","phonecode":"506","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0288"},"id":"53","sortname":"CI","name":"Cote D''Ivoire (Ivory Coast)","phonecode":"225","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0289"},"id":"54","sortname":"HR","name":"Croatia (Hrvatska)","phonecode":"385","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce028a"},"id":"55","sortname":"CU","name":"Cuba","phonecode":"53","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce028b"},"id":"56","sortname":"CY","name":"Cyprus","phonecode":"357","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce028c"},"id":"57","sortname":"CZ","name":"Czech Republic","phonecode":"420","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce028d"},"id":"58","sortname":"DK","name":"Denmark","phonecode":"45","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce028e"},"id":"59","sortname":"DJ","name":"Djibouti","phonecode":"253","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce028f"},"id":"60","sortname":"DM","name":"Dominica","phonecode":"1767","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0290"},"id":"61","sortname":"DO","name":"Dominican Republic","phonecode":"1809","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0291"},"id":"62","sortname":"TP","name":"East Timor","phonecode":"670","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0292"},"id":"63","sortname":"EC","name":"Ecuador","phonecode":"593","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0293"},"id":"64","sortname":"EG","name":"Egypt","phonecode":"20","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0294"},"id":"65","sortname":"SV","name":"El Salvador","phonecode":"503","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0295"},"id":"66","sortname":"GQ","name":"Equatorial Guinea","phonecode":"240","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0296"},"id":"67","sortname":"ER","name":"Eritrea","phonecode":"291","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0297"},"id":"68","sortname":"EE","name":"Estonia","phonecode":"372","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0298"},"id":"69","sortname":"ET","name":"Ethiopia","phonecode":"251","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0299"},"id":"70","sortname":"XA","name":"External Territories of Australia","phonecode":"61","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce029a"},"id":"71","sortname":"FK","name":"Falkland Islands","phonecode":"500","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce029b"},"id":"72","sortname":"FO","name":"Faroe Islands","phonecode":"298","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce029c"},"id":"73","sortname":"FJ","name":"Fiji Islands","phonecode":"679","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce029d"},"id":"74","sortname":"FI","name":"Finland","phonecode":"358","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce029e"},"id":"75","sortname":"FR","name":"France","phonecode":"33","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce029f"},"id":"76","sortname":"GF","name":"French Guiana","phonecode":"594","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a0"},"id":"77","sortname":"PF","name":"French Polynesia","phonecode":"689","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a1"},"id":"78","sortname":"TF","name":"French Southern Territories","phonecode":"0","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a2"},"id":"79","sortname":"GA","name":"Gabon","phonecode":"241","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a3"},"id":"80","sortname":"GM","name":"Gambia The","phonecode":"220","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a4"},"id":"81","sortname":"GE","name":"Georgia","phonecode":"995","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a5"},"id":"82","sortname":"DE","name":"Germany","phonecode":"49","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a6"},"id":"83","sortname":"GH","name":"Ghana","phonecode":"233","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a7"},"id":"84","sortname":"GI","name":"Gibraltar","phonecode":"350","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a8"},"id":"85","sortname":"GR","name":"Greece","phonecode":"30","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02a9"},"id":"86","sortname":"GL","name":"Greenland","phonecode":"299","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02aa"},"id":"87","sortname":"GD","name":"Grenada","phonecode":"1473","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ab"},"id":"88","sortname":"GP","name":"Guadeloupe","phonecode":"590","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ac"},"id":"89","sortname":"GU","name":"Guam","phonecode":"1671","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ad"},"id":"90","sortname":"GT","name":"Guatemala","phonecode":"502","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ae"},"id":"91","sortname":"XU","name":"Guernsey and Alderney","phonecode":"44","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02af"},"id":"92","sortname":"GN","name":"Guinea","phonecode":"224","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b0"},"id":"93","sortname":"GW","name":"Guinea-Bissau","phonecode":"245","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b1"},"id":"94","sortname":"GY","name":"Guyana","phonecode":"592","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b2"},"id":"95","sortname":"HT","name":"Haiti","phonecode":"509","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b3"},"id":"96","sortname":"HM","name":"Heard and McDonald Islands","phonecode":"0","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b4"},"id":"97","sortname":"HN","name":"Honduras","phonecode":"504","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b5"},"id":"98","sortname":"HK","name":"Hong Kong S.A.R.","phonecode":"852","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b6"},"id":"99","sortname":"HU","name":"Hungary","phonecode":"36","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b7"},"id":"100","sortname":"IS","name":"Iceland","phonecode":"354","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b8"},"id":"101","sortname":"IN","name":"India","phonecode":"91","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02b9"},"id":"102","sortname":"ID","name":"Indonesia","phonecode":"62","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ba"},"id":"103","sortname":"IR","name":"Iran","phonecode":"98","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02bb"},"id":"104","sortname":"IQ","name":"Iraq","phonecode":"964","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02bc"},"id":"105","sortname":"IE","name":"Ireland","phonecode":"353","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02bd"},"id":"106","sortname":"IL","name":"Israel","phonecode":"972","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02be"},"id":"107","sortname":"IT","name":"Italy","phonecode":"39","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02bf"},"id":"108","sortname":"JM","name":"Jamaica","phonecode":"1876","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c0"},"id":"109","sortname":"JP","name":"Japan","phonecode":"81","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c1"},"id":"110","sortname":"XJ","name":"Jersey","phonecode":"44","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c2"},"id":"111","sortname":"JO","name":"Jordan","phonecode":"962","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c3"},"id":"112","sortname":"KZ","name":"Kazakhstan","phonecode":"7","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c4"},"id":"113","sortname":"KE","name":"Kenya","phonecode":"254","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c5"},"id":"114","sortname":"KI","name":"Kiribati","phonecode":"686","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c6"},"id":"115","sortname":"KP","name":"Korea North","phonecode":"850","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c7"},"id":"116","sortname":"KR","name":"Korea South","phonecode":"82","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c8"},"id":"117","sortname":"KW","name":"Kuwait","phonecode":"965","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02c9"},"id":"118","sortname":"KG","name":"Kyrgyzstan","phonecode":"996","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ca"},"id":"119","sortname":"LA","name":"Laos","phonecode":"856","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02cb"},"id":"120","sortname":"LV","name":"Latvia","phonecode":"371","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02cc"},"id":"121","sortname":"LB","name":"Lebanon","phonecode":"961","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02cd"},"id":"122","sortname":"LS","name":"Lesotho","phonecode":"266","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ce"},"id":"123","sortname":"LR","name":"Liberia","phonecode":"231","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02cf"},"id":"124","sortname":"LY","name":"Libya","phonecode":"218","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d0"},"id":"125","sortname":"LI","name":"Liechtenstein","phonecode":"423","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d1"},"id":"126","sortname":"LT","name":"Lithuania","phonecode":"370","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d2"},"id":"127","sortname":"LU","name":"Luxembourg","phonecode":"352","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d3"},"id":"128","sortname":"MO","name":"Macau S.A.R.","phonecode":"853","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d4"},"id":"129","sortname":"MK","name":"Macedonia","phonecode":"389","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d5"},"id":"130","sortname":"MG","name":"Madagascar","phonecode":"261","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d6"},"id":"131","sortname":"MW","name":"Malawi","phonecode":"265","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d7"},"id":"132","sortname":"MY","name":"Malaysia","phonecode":"60","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d8"},"id":"133","sortname":"MV","name":"Maldives","phonecode":"960","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02d9"},"id":"134","sortname":"ML","name":"Mali","phonecode":"223","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02da"},"id":"135","sortname":"MT","name":"Malta","phonecode":"356","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02db"},"id":"136","sortname":"XM","name":"Man (Isle of)","phonecode":"44","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02dc"},"id":"137","sortname":"MH","name":"Marshall Islands","phonecode":"692","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02dd"},"id":"138","sortname":"MQ","name":"Martinique","phonecode":"596","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02de"},"id":"139","sortname":"MR","name":"Mauritania","phonecode":"222","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02df"},"id":"140","sortname":"MU","name":"Mauritius","phonecode":"230","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e0"},"id":"141","sortname":"YT","name":"Mayotte","phonecode":"269","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e1"},"id":"142","sortname":"MX","name":"Mexico","phonecode":"52","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e2"},"id":"143","sortname":"FM","name":"Micronesia","phonecode":"691","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e3"},"id":"144","sortname":"MD","name":"Moldova","phonecode":"373","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e4"},"id":"145","sortname":"MC","name":"Monaco","phonecode":"377","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e5"},"id":"146","sortname":"MN","name":"Mongolia","phonecode":"976","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e6"},"id":"147","sortname":"MS","name":"Montserrat","phonecode":"1664","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e7"},"id":"148","sortname":"MA","name":"Morocco","phonecode":"212","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e8"},"id":"149","sortname":"MZ","name":"Mozambique","phonecode":"258","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02e9"},"id":"150","sortname":"MM","name":"Myanmar","phonecode":"95","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ea"},"id":"151","sortname":"NA","name":"Namibia","phonecode":"264","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02eb"},"id":"152","sortname":"NR","name":"Nauru","phonecode":"674","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ec"},"id":"153","sortname":"NP","name":"Nepal","phonecode":"977","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ed"},"id":"154","sortname":"AN","name":"Netherlands Antilles","phonecode":"599","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ee"},"id":"155","sortname":"NL","name":"Netherlands The","phonecode":"31","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ef"},"id":"156","sortname":"NC","name":"New Caledonia","phonecode":"687","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f0"},"id":"157","sortname":"NZ","name":"New Zealand","phonecode":"64","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f1"},"id":"158","sortname":"NI","name":"Nicaragua","phonecode":"505","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f2"},"id":"159","sortname":"NE","name":"Niger","phonecode":"227","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f3"},"id":"160","sortname":"NG","name":"Nigeria","phonecode":"234","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f4"},"id":"161","sortname":"NU","name":"Niue","phonecode":"683","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f5"},"id":"162","sortname":"NF","name":"Norfolk Island","phonecode":"672","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f6"},"id":"163","sortname":"MP","name":"Northern Mariana Islands","phonecode":"1670","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f7"},"id":"164","sortname":"NO","name":"Norway","phonecode":"47","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f8"},"id":"165","sortname":"OM","name":"Oman","phonecode":"968","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02f9"},"id":"166","sortname":"PK","name":"Pakistan","phonecode":"92","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02fa"},"id":"167","sortname":"PW","name":"Palau","phonecode":"680","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02fb"},"id":"168","sortname":"PS","name":"Palestinian Territory Occupied","phonecode":"970","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02fc"},"id":"169","sortname":"PA","name":"Panama","phonecode":"507","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02fd"},"id":"170","sortname":"PG","name":"Papua new Guinea","phonecode":"675","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02fe"},"id":"171","sortname":"PY","name":"Paraguay","phonecode":"595","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce02ff"},"id":"172","sortname":"PE","name":"Peru","phonecode":"51","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0300"},"id":"173","sortname":"PH","name":"Philippines","phonecode":"63","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0301"},"id":"174","sortname":"PN","name":"Pitcairn Island","phonecode":"0","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0302"},"id":"175","sortname":"PL","name":"Poland","phonecode":"48","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0303"},"id":"176","sortname":"PT","name":"Portugal","phonecode":"351","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0304"},"id":"177","sortname":"PR","name":"Puerto Rico","phonecode":"1787","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0305"},"id":"178","sortname":"QA","name":"Qatar","phonecode":"974","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0306"},"id":"179","sortname":"RE","name":"Reunion","phonecode":"262","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0307"},"id":"180","sortname":"RO","name":"Romania","phonecode":"40","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0308"},"id":"181","sortname":"RU","name":"Russia","phonecode":"70","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0309"},"id":"182","sortname":"RW","name":"Rwanda","phonecode":"250","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce030a"},"id":"183","sortname":"SH","name":"Saint Helena","phonecode":"290","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce030b"},"id":"184","sortname":"KN","name":"Saint Kitts And Nevis","phonecode":"1869","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce030c"},"id":"185","sortname":"LC","name":"Saint Lucia","phonecode":"1758","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce030d"},"id":"186","sortname":"PM","name":"Saint Pierre and Miquelon","phonecode":"508","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce030e"},"id":"187","sortname":"VC","name":"Saint Vincent And The Grenadines","phonecode":"1784","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce030f"},"id":"188","sortname":"WS","name":"Samoa","phonecode":"684","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0310"},"id":"189","sortname":"SM","name":"San Marino","phonecode":"378","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0311"},"id":"190","sortname":"ST","name":"Sao Tome and Principe","phonecode":"239","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0312"},"id":"191","sortname":"SA","name":"Saudi Arabia","phonecode":"966","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0313"},"id":"192","sortname":"SN","name":"Senegal","phonecode":"221","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0314"},"id":"193","sortname":"RS","name":"Serbia","phonecode":"381","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0315"},"id":"194","sortname":"SC","name":"Seychelles","phonecode":"248","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0316"},"id":"195","sortname":"SL","name":"Sierra Leone","phonecode":"232","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0317"},"id":"196","sortname":"SG","name":"Singapore","phonecode":"65","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0318"},"id":"197","sortname":"SK","name":"Slovakia","phonecode":"421","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0319"},"id":"198","sortname":"SI","name":"Slovenia","phonecode":"386","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce031a"},"id":"199","sortname":"XG","name":"Smaller Territories of the UK","phonecode":"44","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce031b"},"id":"200","sortname":"SB","name":"Solomon Islands","phonecode":"677","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce031c"},"id":"201","sortname":"SO","name":"Somalia","phonecode":"252","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce031d"},"id":"202","sortname":"ZA","name":"South Africa","phonecode":"27","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce031e"},"id":"203","sortname":"GS","name":"South Georgia","phonecode":"0","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce031f"},"id":"204","sortname":"SS","name":"South Sudan","phonecode":"211","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0320"},"id":"205","sortname":"ES","name":"Spain","phonecode":"34","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0321"},"id":"206","sortname":"LK","name":"Sri Lanka","phonecode":"94","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0322"},"id":"207","sortname":"SD","name":"Sudan","phonecode":"249","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0323"},"id":"208","sortname":"SR","name":"Suriname","phonecode":"597","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0324"},"id":"209","sortname":"SJ","name":"Svalbard And Jan Mayen Islands","phonecode":"47","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0325"},"id":"210","sortname":"SZ","name":"Swaziland","phonecode":"268","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0326"},"id":"211","sortname":"SE","name":"Sweden","phonecode":"46","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0327"},"id":"212","sortname":"CH","name":"Switzerland","phonecode":"41","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0328"},"id":"213","sortname":"SY","name":"Syria","phonecode":"963","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0329"},"id":"214","sortname":"TW","name":"Taiwan","phonecode":"886","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce032a"},"id":"215","sortname":"TJ","name":"Tajikistan","phonecode":"992","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce032b"},"id":"216","sortname":"TZ","name":"Tanzania","phonecode":"255","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce032c"},"id":"217","sortname":"TH","name":"Thailand","phonecode":"66","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce032d"},"id":"218","sortname":"TG","name":"Togo","phonecode":"228","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce032e"},"id":"219","sortname":"TK","name":"Tokelau","phonecode":"690","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce032f"},"id":"220","sortname":"TO","name":"Tonga","phonecode":"676","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0330"},"id":"221","sortname":"TT","name":"Trinidad And Tobago","phonecode":"1868","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0331"},"id":"222","sortname":"TN","name":"Tunisia","phonecode":"216","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0332"},"id":"223","sortname":"TR","name":"Turkey","phonecode":"90","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0333"},"id":"224","sortname":"TM","name":"Turkmenistan","phonecode":"7370","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0334"},"id":"225","sortname":"TC","name":"Turks And Caicos Islands","phonecode":"1649","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0335"},"id":"226","sortname":"TV","name":"Tuvalu","phonecode":"688","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0336"},"id":"227","sortname":"UG","name":"Uganda","phonecode":"256","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0337"},"id":"228","sortname":"UA","name":"Ukraine","phonecode":"380","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0338"},"id":"229","sortname":"AE","name":"United Arab Emirates","phonecode":"971","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0339"},"id":"230","sortname":"GB","name":"United Kingdom","phonecode":"44","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce033a"},"id":"231","sortname":"US","name":"United States","phonecode":"1","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce033b"},"id":"232","sortname":"UM","name":"United States Minor Outlying Islands","phonecode":"1","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce033c"},"id":"233","sortname":"UY","name":"Uruguay","phonecode":"598","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce033d"},"id":"234","sortname":"UZ","name":"Uzbekistan","phonecode":"998","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce033e"},"id":"235","sortname":"VU","name":"Vanuatu","phonecode":"678","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce033f"},"id":"236","sortname":"VA","name":"Vatican City State (Holy See)","phonecode":"39","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0340"},"id":"237","sortname":"VE","name":"Venezuela","phonecode":"58","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0341"},"id":"238","sortname":"VN","name":"Vietnam","phonecode":"84","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0342"},"id":"239","sortname":"VG","name":"Virgin Islands (British)","phonecode":"1284","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0343"},"id":"240","sortname":"VI","name":"Virgin Islands (US)","phonecode":"1340","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0344"},"id":"241","sortname":"WF","name":"Wallis And Futuna Islands","phonecode":"681","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0345"},"id":"242","sortname":"EH","name":"Western Sahara","phonecode":"212","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0346"},"id":"243","sortname":"YE","name":"Yemen","phonecode":"967","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0347"},"id":"244","sortname":"YU","name":"Yugoslavia","phonecode":"38","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0348"},"id":"245","sortname":"ZM","name":"Zambia","phonecode":"260","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee23678b7399511b9ce0349"},"id":"246","sortname":"ZW","name":"Zimbabwe","phonecode":"263","__v":{"$numberInt":"0"}}

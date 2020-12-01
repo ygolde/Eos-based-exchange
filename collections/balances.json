@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5eda3f29fe165462a05f34ba"},"currency":"usd","balance":{"$numberInt":"4383"},"userId":"5ea06b04b3a2a5216c5063c7","created_at":{"$date":{"$numberLong":"1591361321148"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5eddeaa24c97d73cb7c57213"},"currency":"usd","balance":{"$numberInt":"2066"},"userId":"5ea06b04b3a2a5216c5063c7","created_at":{"$date":{"$numberLong":"1591601826490"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee7c25c47db5fd30105c7ca"},"currency":"eos","balance":{"$numberDouble":"0.0059"},"userId":"5ea06b04b3a2a5216c5063c7","created_at":{"$date":{"$numberLong":"1592246876909"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ef734e101a8de5f785eb873"},"currency":"eos","balance":{"$numberDouble":"0.0059"},"userId":"5ef734a201a8de5f785eb872","created_at":{"$date":{"$numberLong":"1593259233529"}},"__v":{"$numberInt":"0"}}

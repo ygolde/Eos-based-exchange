@@ -1,0 +1,1 @@
+sudo cp -r ui/user/dist/ /var/www/userpanel/

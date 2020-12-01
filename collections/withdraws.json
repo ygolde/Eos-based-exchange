@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5eddf00e29ad0241ad3ad4dd"},"destination":"card","created_at":true,"userId":"5ea06b04b3a2a5216c5063c7","currency":"usd","amount":{"$numberInt":"5"},"state":"pending","type":"fiat","updated_at":{"$date":{"$numberLong":"1591603214093"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee0c44b3f5362bdffeaf4a0"},"destination":"card","created_at":true,"userId":"5ea06b04b3a2a5216c5063c7","currency":"usd","state":"pending","type":"fiat","fee":"0.49","updated_at":{"$date":{"$numberLong":"1591788619247"}},"__v":{"$numberInt":"0"}}

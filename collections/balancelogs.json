@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5edde6577f6d5f36955f0266"},"currency":"usd","userId":{"$oid":"5ea06b04b3a2a5216c5063c7"},"amount":{"$numberInt":"10"},"created_at":{"$date":{"$numberLong":"1591600727276"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5edde84e440bd43a6ee2f8ec"},"currency":"usd","userId":{"$oid":"5ea06b04b3a2a5216c5063c7"},"amount":{"$numberInt":"500"},"created_at":{"$date":{"$numberLong":"1591601230080"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5eddf00e29ad0241ad3ad4dc"},"currency":"usd","userId":{"$oid":"5ea06b04b3a2a5216c5063c7"},"amount":{"$numberInt":"500"},"created_at":{"$date":{"$numberLong":"1591603214071"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ede29021178a07002d52365"},"currency":"usd","userId":{"$oid":"5ea06b04b3a2a5216c5063c7"},"amount":{"$numberInt":"478"},"created_at":{"$date":{"$numberLong":"1591617794583"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee0c3d6601ca6bd4ed76ff8"},"currency":"usd","userId":{"$oid":"5ea06b04b3a2a5216c5063c7"},"amount":{"$numberInt":"1051"},"created_at":{"$date":{"$numberLong":"1591788502760"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee0c3f0601ca6bd4ed76ffa"},"currency":"usd","userId":{"$oid":"5ea06b04b3a2a5216c5063c7"},"amount":{"$numberInt":"1051"},"created_at":{"$date":{"$numberLong":"1591788528663"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ee0c44b3f5362bdffeaf49f"},"currency":"usd","userId":{"$oid":"5ea06b04b3a2a5216c5063c7"},"amount":{"$numberInt":"1051"},"created_at":{"$date":{"$numberLong":"1591788619231"}},"__v":{"$numberInt":"0"}}

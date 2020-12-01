@@ -1,0 +1,4 @@
+Special character validations
+age validation
+notifications to the users
+chart background color

@@ -1,0 +1,75 @@
+version: '3.6'
+services:
+  admin:
+    image: nginx
+    restart: always
+    volumes:
+      - "./config/:/etc/nginx/conf.d/"
+      - "./ui/admin/dist/:/usr/share/nginx/html"
+    environment:
+      # NGINX-PROXY ENVIRONMENT VARIABLES: UPDATE ME
+      - VIRTUAL_HOST=dev.zipcoin.exchange
+      - VIRTUAL_PORT=80
+      - LETSENCRYPT_HOST=dev.zipcoin.exchange
+      - LETSENCRYPT_EMAIL=info@zipcoin.exchange
+      # /END NGINX-PROXY ENVIRONMENT VARIABLES
+    expose:
+      - 80
+    depends_on:
+      - backend
+  portal:
+    image: nginx
+    restart: always
+    volumes:
+      - "./config/:/etc/nginx/conf.d/"
+      - "./ui/user/dist/:/usr/share/nginx/html"
+    environment:
+      # NGINX-PROXY ENVIRONMENT VARIABLES: UPDATE ME
+      - VIRTUAL_HOST=test.zipcoin.exchange
+      - VIRTUAL_PORT=80
+      - LETSENCRYPT_HOST=test.zipcoin.exchange
+      - LETSENCRYPT_EMAIL=info@zipcoin.exchange
+      # /END NGINX-PROXY ENVIRONMENT VARIABLES
+    expose:
+      - 80
+    depends_on:
+      - backend
+  backend:
+    image: salmanbao/eos-exchange-server
+    environment:
+      - NETWORK_ACCESS=internal
+    ports:
+      - "4000:4000" 
+    volumes:
+      - ./uploads:/usr/src/app/uploads
+    container_name: nodejs
+    restart: always
+    links:
+      - database
+  database: 
+    image: mongo
+    container_name: mongo
+    volumes:
+      - /mongodb:/data/db
+    restart: always
+  mongoui:
+    image: mongo-express
+    container_name: mongoui
+    environment:
+     # - ME_CONFIG_MONGODB_ENABLE_ADMIN="true"
+     # - ME_CONFIG_MONGODB_ADMINUSERNAME=admin
+     # - ME_CONFIG_MONGODB_ADMINPASSWORD=pass
+      - ME_CONFIG_BASICAUTH_USERNAME=user
+      - ME_CONFIG_BASICAUTH_PASSWORD=pass
+      - ME_CONFIG_OPTIONS_EDITORTHEME=ambian
+      - ME_CONFIG_SITE_COOKIESECRET=qazxswedcvfrtgb
+      - ME_CONFIG_SITE_SESSIONSECRETE=okmijnuhbygv
+    ports:
+      - "8081:8081"
+    depends_on:
+      - database
+
+networks:
+  default:
+    external:
+      name: nginx-proxy

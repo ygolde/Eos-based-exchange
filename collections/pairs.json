@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e6b947d0e6e3f483862e292"},"state":true,"created_at":{"$date":{"$numberLong":"1584108619454"}},"first_currency":{"$oid":"5e6b91fadb275b6aebca27cc"},"second_currency":{"$oid":"5e6b91e5db275b6aebca27cb"},"type":"crypto","baseCoin":{"$oid":"5e6b91e5db275b6aebca27cb"},"__v":{"$numberInt":"0"},"locked":true}
